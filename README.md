@@ -59,3 +59,5 @@ The project aimed to create an IoT-based weather station with an ESP32 (wroom-32
 - Ensure the ESP32 device has a stable WiFi connection.
 - Verify that AWS and OpenWeatherApi connection details are accurate.
 - Inspect logs from Lambda and ESP32 as needed.
+## ESP32-BME280 Wiring
+![ESP32-bme280_schematic](https://github.com/Timmieh99/Esp32Weatherstation/assets/60445245/ab1b3117-54a9-4c0f-9956-a5f60d245186)
